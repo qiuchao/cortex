@@ -1,0 +1,6 @@
+{
+  "version": "0.4.100",
+  "filename": "runtime-0.4.100.tar.gz",
+  "sha256": "092d642d41504504745cc6887cc2fd623aa5564dcab55fbaba2b02e07e062872",
+  "signature": "untrusted comment: signature from tauri secret key\nRUT/TVPm/bIdAP/fPjrXbBr5kB87USEyfTrVVgPEdVxf43nSLn+5zMKIYg/XaY6KUYTRvfzpPR0C07tG/202gho6Oox966BzjwA=\ntrusted comment: timestamp:1790741594\tfile:synapse-0.4.100.tar.gz\nQEJhcnfAPLtZWTpMnRv7njLMpDAW7irpbl54ZvjFg2HvW05f6m3lNXqC6mda9Zkl2q2mQZ1Ewt3JvggY+FaSBg==\n"
+}

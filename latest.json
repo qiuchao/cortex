@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "version": "0.5.4",
+  "platforms": {
+    "linux-x86_64": {
+      "version": "0.5.4",
+      "filename": "runtime-0.5.4-linux-x86_64.tar.gz",
+      "sha256": "86fe678309bc86b9a72005a89cdba99e321239150edae3b2d1c12da5014fe1e5",
+      "signature": "untrusted comment: signature from tauri secret key\nRUT/TVPm/bIdAP9md44wrSuZmRvz3Cw04dG5k+W21EG3QVMu3txOCTqgolWpJGHFo66YJ3SEv8v+DWs+KbWA1rdJ7w+X6DAvjQA=\ntrusted comment: timestamp:1793356298\tfile:synapse-0.5.4.tar.gz\neZT3brewE+z44GkiS0X3X6j485geHNX6tUdiokDmC7WvCnK0acGqcRKuE3g2K/4945BD2HkZAVjeAAl2bX8IDg==\n",
+      "format": "native",
+      "platform": "linux-x86_64",
+      "target": "x86_64-unknown-linux-musl"
+    },
+    "windows-x86_64": {
+      "version": "0.5.4",
+      "filename": "runtime-0.5.4-windows-x86_64.tar.gz",
+      "sha256": "f537d3ecf2b18b32f24fed05f5f9e5f9ae4ceddeb43b26f504c950cd0ff92ae7",
+      "signature": "untrusted comment: signature from tauri secret key\nRUT/TVPm/bIdAJ5OzDT9T56YVb5Xru3SS6gIUSVHW0OJUBC4D6RkvNIGkIJ2rrUGt+l+zfc0kzqLp2tFotvxGSdAXbcrhAryAg4=\ntrusted comment: timestamp:1793358006\tfile:synapse-0.5.4.tar.gz\nRbp9MbZ93n56Mwf3lZ7DbF0xMLTY8z1SkYXTwLKK10E6dBnIjwn31mrDJdJ+LpfT1sUSKmD0yZtiDNxSlWQfBA==\n",
+      "format": "native",
+      "platform": "windows-x86_64",
+      "target": "x86_64-pc-windows-msvc"
+    },
+    "darwin-arm64": {
+      "version": "0.5.4",
+      "filename": "runtime-0.5.4-darwin-arm64.tar.gz",
+      "sha256": "979eeb932cece90aba3d01a00cb1a8b54eaae32cf9f398762093f1752e4d1b9e",
+      "signature": "untrusted comment: signature from tauri secret key\nRUT/TVPm/bIdAIyt6pG2ubN4LxFDIoZ8UlxJnNESgSU9ky1VPSci8mu9hLgHbri2NBpg0VkebFxjCIjg61h3hGs3cmJr87vs7gw=\ntrusted comment: timestamp:1793355908\tfile:synapse-0.5.4.tar.gz\nqaB45wf6y/rxbU5uw1/IQrrf5r3jkk9aleatqJRFo4ii1FD9mXpwDxDBm8xeY8+OL8tNisLwZMsSMBLx33cfDg==\n",
+      "format": "native",
+      "platform": "darwin-arm64",
+      "target": "aarch64-apple-darwin"
+    }
+  }
+}

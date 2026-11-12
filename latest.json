@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 2,
+  "version": "0.5.19",
+  "platforms": {
+    "linux-x86_64": {
+      "version": "0.5.19",
+      "filename": "runtime-0.5.19-linux-x86_64.tar.gz",
+      "sha256": "baa9c15b0b8cc00090fac11cd0f3cfaecbb805755c31bc1213c9ee12c745c6fa",
+      "signature": "untrusted comment: signature from tauri secret key\nRUT/TVPm/bIdANjQGYNRGhhiNrCKmPco017/ig1OwXGRnkPMYxVBv1g1Hyn/vYZil38/siyzQ7VOyXahxlDz26/ZvoEtpOBeDw4=\ntrusted comment: timestamp:1794451637\tfile:synapse-0.5.19.tar.gz\nPePssN45V7HPozPKoo8aHNed33OnrT/7GNs8e2YvLZadBGMkHJfIxaudS0MNWYmMugbQOECowsIJs9QKkXSHDg==\n",
+      "format": "native",
+      "platform": "linux-x86_64",
+      "target": "x86_64-unknown-linux-musl"
+    },
+    "windows-x86_64": {
+      "version": "0.5.19",
+      "filename": "runtime-0.5.19-windows-x86_64.tar.gz",
+      "sha256": "b0506359e7465dace2ba295ea7beb4af49f68d13205d8b4eec3b113f5af3da7d",
+      "signature": "untrusted comment: signature from tauri secret key\nRUT/TVPm/bIdABkA7okaN7CHBhnfP3tbNTms2GDdtH5CwWdoe5n9sSaIeNCcF/Yif/ry1lDUMNnhfzmHOWXR/roMdWiZLeC0EwE=\ntrusted comment: timestamp:1794451654\tfile:synapse-0.5.19.tar.gz\nQRglPZPUN/KH58lkP1rllV7yLQgum3zn1juOsuMMAUvSxwaktw3JhnSuWShF16THDTKiNdxiBafl2+FD0SJJDA==\n",
+      "format": "native",
+      "platform": "windows-x86_64",
+      "target": "x86_64-pc-windows-msvc"
+    }
+  }
+}
